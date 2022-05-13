@@ -1,0 +1,53 @@
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe.config
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\bin\Debug\ChamaFormTimer.pdb
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form1.resources
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form2.resources
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.Properties.Resources.resources
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.csproj.GenerateResource.Cache
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.exe
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.pdb
+C:\Users\Rafa\Desktop\Projeto Csharp\Códigos bons e funcionando\ChamaFormTimer\ChamaFormTimer\obj\Debug\ChamaFormTimer.csprojResolveAssemblyReference.cache
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe.config
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.exe
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.pdb
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.pdb
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csprojResolveAssemblyReference.cache
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form1.resources
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form2.resources
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Properties.Resources.resources
+C:\Users\Trabalho\Desktop\Código Pronto\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csproj.GenerateResource.Cache
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe.config
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.exe
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.pdb
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.pdb
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csprojResolveAssemblyReference.cache
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form1.resources
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form2.resources
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Properties.Resources.resources
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csproj.GenerateResource.Cache
+C:\Users\Trabalho\Desktop\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form3.resources
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe.config
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.exe
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.pdb
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.pdb
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csprojResolveAssemblyReference.cache
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form1.resources
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form2.resources
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form3.resources
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Properties.Resources.resources
+C:\Users\Rafa\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csproj.GenerateResource.Cache
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe.config
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.exe
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.pdb
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.exe
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\bin\Debug\ChamaFormTimer.pdb
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csprojResolveAssemblyReference.cache
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form1.resources
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form2.resources
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Form3.resources
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.Properties.Resources.resources
+C:\Users\Trabalho\Desktop\Código Pronto3\união\ChamaFormTimer\obj\Debug\ChamaFormTimer.csproj.GenerateResource.Cache

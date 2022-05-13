@@ -1,2 +1,3 @@
-# Teste_de_Esfor-o_Mental
-Aplicativo desenvolvido e C# para rodar testes cognitivos que funciona integrado a um equipamento aquisição de Sinais de EEG (OpenBCI)
+# Teste de Esforço Mental
+### Aplicativo desenvolvido em C# para rodar testes cognitivos
+### Este aplicativo funciona integrado a um equipamento aquisição de Sinais de EEG (OpenBCI)
